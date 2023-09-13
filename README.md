@@ -13,7 +13,6 @@ This is a simple Java-based Server-Client Communication project. It demonstrates
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

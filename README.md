@@ -55,6 +55,7 @@ To run this project, you need to have Java Development Kit (JDK) installed on yo
   ```
 
 Usage:
+
 Start the server and one or more clients as described in the installation steps.
 
 Clients can enter text messages, and the server will receive and process these messages.
@@ -63,5 +64,6 @@ The server can send responses back to clients.
 
 Experiment with the code to understand how server-client communication works.
   
-Contributing
+Contributing:
+
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. Feel free to open issues for any feature requests or bug reports.
